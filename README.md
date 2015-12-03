@@ -1,6 +1,6 @@
 # fontawesome_contao
 
-fontawesome_contao fontawesome_contao ist ein Contao-Add-On welches „Font Awesome“ in Contao einzubinden. Über einen InsertTag können die Symbole innerhalb der Webseite genutzt werden. Die Nutzung über StyleSheets per Unicode ist ebenfalls möglich.
+fontawesome_contao ist ein Contao-Add-On welches „Font Awesome“ in Contao einzubinden. Über einen InsertTag können die Symbole innerhalb der Webseite genutzt werden. Die Nutzung über StyleSheets per Unicode ist ebenfalls möglich.
 
 ## Demo
 
